@@ -1,0 +1,172 @@
+{"frames": [
+
+{
+	"filename": "enter/1.png",
+	"frame": {"x":111,"y":74,"w":7,"h":32},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":7,"h":32},
+	"sourceSize": {"w":7,"h":32}
+},
+{
+	"filename": "enter/2.png",
+	"frame": {"x":22,"y":0,"w":22,"h":20},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":22,"h":20},
+	"sourceSize": {"w":22,"h":20}
+},
+{
+	"filename": "enter/3.png",
+	"frame": {"x":0,"y":0,"w":22,"h":11},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":22,"h":11},
+	"sourceSize": {"w":22,"h":11}
+},
+{
+	"filename": "hit/0.png",
+	"frame": {"x":86,"y":46,"w":26,"h":28},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":26,"h":28},
+	"sourceSize": {"w":26,"h":28}
+},
+{
+	"filename": "hit/1.png",
+	"frame": {"x":62,"y":46,"w":24,"h":24},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":24,"h":24},
+	"sourceSize": {"w":24,"h":24}
+},
+{
+	"filename": "hit/2.png",
+	"frame": {"x":24,"y":22,"w":28,"h":22},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":28,"h":22},
+	"sourceSize": {"w":28,"h":22}
+},
+{
+	"filename": "jump/0.png",
+	"frame": {"x":56,"y":74,"w":26,"h":30},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":26,"h":30},
+	"sourceSize": {"w":26,"h":30}
+},
+{
+	"filename": "ladder/0.png",
+	"frame": {"x":24,"y":74,"w":16,"h":29},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":16,"h":29},
+	"sourceSize": {"w":16,"h":29}
+},
+{
+	"filename": "ladder/1.png",
+	"frame": {"x":40,"y":74,"w":16,"h":29},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":16,"h":29},
+	"sourceSize": {"w":16,"h":29}
+},
+{
+	"filename": "ladder/2.png",
+	"frame": {"x":103,"y":0,"w":16,"h":22},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":16,"h":22},
+	"sourceSize": {"w":16,"h":22}
+},
+{
+	"filename": "ladder/3.png",
+	"frame": {"x":0,"y":74,"w":24,"h":29},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":24,"h":29},
+	"sourceSize": {"w":24,"h":29}
+},
+{
+	"filename": "shoot/0.png",
+	"frame": {"x":73,"y":22,"w":31,"h":24},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":31,"h":24},
+	"sourceSize": {"w":31,"h":24}
+},
+{
+	"filename": "shoot/1.png",
+	"frame": {"x":73,"y":0,"w":30,"h":22},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":30,"h":22},
+	"sourceSize": {"w":30,"h":22}
+},
+{
+	"filename": "shoot/2.png",
+	"frame": {"x":36,"y":46,"w":26,"h":24},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":26,"h":24},
+	"sourceSize": {"w":26,"h":24}
+},
+{
+	"filename": "shoot/3.png",
+	"frame": {"x":44,"y":0,"w":29,"h":22},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":29,"h":22},
+	"sourceSize": {"w":29,"h":22}
+},
+{
+	"filename": "shoot/4.png",
+	"frame": {"x":82,"y":74,"w":29,"h":30},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":29,"h":30},
+	"sourceSize": {"w":29,"h":30}
+},
+{
+	"filename": "walk/0.png",
+	"frame": {"x":16,"y":46,"w":20,"h":24},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":20,"h":24},
+	"sourceSize": {"w":20,"h":24}
+},
+{
+	"filename": "walk/1.png",
+	"frame": {"x":0,"y":22,"w":24,"h":22},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":24,"h":22},
+	"sourceSize": {"w":24,"h":22}
+},
+{
+	"filename": "walk/2.png",
+	"frame": {"x":0,"y":46,"w":16,"h":24},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":16,"h":24},
+	"sourceSize": {"w":16,"h":24}
+},
+{
+	"filename": "walk/3.png",
+	"frame": {"x":52,"y":22,"w":21,"h":22},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":21,"h":22},
+	"sourceSize": {"w":21,"h":22}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "megamanFrames.png",
+	"format": "RGBA8888",
+	"size": {"w":119,"h":106},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:8fc03774ed46f171a0a1fd37a12488b0:54b13dce3ea5621d10ecc5bdf3056990:22aa74919cf38eadb59445e40e8811e8$"
+}
+}
